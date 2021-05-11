@@ -1,4 +1,4 @@
-Web Mapping
+# Web Mapping
 
 ![](web_mapping.gif)
 
